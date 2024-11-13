@@ -12,7 +12,7 @@ Google uses this application to demonstrate how developers can modernize enterpr
 
 | Sign in                                                                                                        | Home                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| [![Login](/docs/img/login.png)](/docs/img/login.png) | [![User Transactions](/docs/img/transactions.png)](/docs/img/transactions.png) |
+| ![image](https://github.com/user-attachments/assets/15c75e7c-7f39-4142-8c6f-6ee8dfe80c7d)| ![image](https://github.com/user-attachments/assets/904c4776-fcf6-44bd-88f7-48629b41f702)|
 
 
 ![image](https://github.com/user-attachments/assets/5b8c8e95-028c-4d25-a1e9-de1f3230447e)
